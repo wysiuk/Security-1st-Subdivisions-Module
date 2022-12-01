@@ -1,0 +1,24 @@
+[
+	{
+		"id": 122,
+		"type": "module",
+		"name": "Covenants - Subdivisions",
+		"slug": "covenant-subdivisions",
+		"detail": false,
+		"detail_template": "templates/blank_page",
+		"detail_default_layout": "default",
+		"sz": false,
+		"sz_updated": true,
+		"sz_display_type": "404",
+		"use_standard_fields": true,
+		"system_fields": {
+			"module_field_122_1": {
+				"name": "County",
+				"type": "datasource",
+        "datasource_id": "webapp_4",
+				"live": true,
+				"required": false
+			}
+		}
+	}
+]
